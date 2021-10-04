@@ -1,0 +1,12 @@
+1.Proje 2 adet java uygulaması içermektedir. 
+2.Merkezi Birim uygulaması Consumer olarak çalışıp sensor konum bilgisi ve kerteriz değerini almaktadır.
+3. Sensor uygulaması çalıştırıldığı kadar sensörü temsil etmekte, sensör adı, x koordinati ve y koordinatını kullanıcıdan istemektedir.
+4. Hedef bilgisi sensör uygulaması içerisinde gömülü olarak bulunmaktadır.(x = 50, y = -10)
+5. kullanılan kütüphaneler aşağıdadır.
+	apache.kafka
+	org.slf4j
+	fasterxml
+6.topic name "sensor" dür.
+7.kafka server localhost::9092 adresinden haberleşmektedir.
+8. Uygulama Netbeans idesinde yazılmıştır.
+9. Java ile bayağı uğraştığım için merkezi birimin hedifin konumunu belirlediği algoritmayı yazamadığı belirtmek isterim.

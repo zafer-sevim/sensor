@@ -1,0 +1,4 @@
+com\kafka\producer\sensor\ProducerCreator.class
+com\kafka\producer\sensor\ConsumerCreator.class
+com\kafka\producer\sensor\Sensor.class
+com\kafka\producer\sensor\IKafkaConstants.class
